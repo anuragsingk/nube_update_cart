@@ -1,10 +1,13 @@
 <?php
 /*
-Plugin Name: NubeCart Update
-Description: Updates cart quantity dynamically using JavaScript, eliminating the need to click the 'Update Cart' button..
-Version: 1.0
-Author: Nubevest Pvt Ltd
-Plugin URI: https://nubevest.com.au
+*Plugin Name: NubeCart Update
+*Description: Updates cart quantity dynamically using JavaScript, eliminating the need to click the 'Update Cart' button..
+*Version: 1.0.0
+*Author: Nubevest Pvt Ltd
+*Plugin URI: https://nubevest.com.au
+*License: GPLv2 or later
+*License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+*Text Domain: nube_update_cart
 */
 
 defined('ABSPATH') || die('No script kiddies please!');  // Prevent direct access
